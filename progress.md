@@ -17,9 +17,9 @@ Git & GitHub Fundamentals
 
 ## In Progress
 
-- [ ] Learn branch workflow
-- [ ] Create a Pull Request
-- [ ] Merge a Pull Request
+- [x] Learn branch workflow
+- [x] Create a Pull Request
+- [x] Merge a Pull Request
 
 ## Next
 
